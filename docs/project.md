@@ -40,7 +40,7 @@ El proyecto busca ofrecer un entorno en línea en el que los empresarios puedan:
 ## 3. Arquitectura Técnica
 
 ### 3.1 Backend
-- **Tecnologías Base**: Node.js y PostgreSQL (alojado en Supabase).
+- **Tecnologías Base**: Node.js y PostgreSQL (alojado en Supabase) y los esquemas pueden ser consultados en el archivo schema.md.
 - **Lógica de Negocio**:
   - Orquestar el flujo de etapas.
   - Gestionar el repositorio central de contexto.
